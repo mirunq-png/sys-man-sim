@@ -43,3 +43,5 @@ To run this project, you will need a Linux/Unix-based environment. This includes
 * And many more details!
   
 > Note: Sendmail feature is currently unavailable. To enable it, disable the commentary in 'inregistrare.sh'
+
+> Developed 05/2025
